@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+# Укажите путь к вашему Sitemap для поисковых роботов
+Sitemap: https://stepintomagic.github.io/newsline/sitemap.xml
